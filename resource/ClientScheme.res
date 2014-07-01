@@ -503,6 +503,326 @@ Scheme
 	// describes all the fonts
 	Fonts
 	{
+        /////////////////////
+        //Crosshairs
+		
+        
+        
+		"fogCrosshair"			//fog's crosshair
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"1"
+			}
+		}
+        
+		"fogCrosshairSmall"			//fog's crosshair
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"1"
+			}
+		}
+        
+        "fogCrosshairSmooth"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"0"
+			}
+		}
+        
+        "CrosshairAASmall"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"0"
+			}
+		}
+        "CrosshairOLSmall"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"1"
+			}
+		}
+        "CrosshairAA"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"0"
+			}
+		}
+        "CrosshairOL"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"1"
+			}
+		}
+        "CrosshairAABig"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"0"
+			}
+		}
+        "CrosshairOLBig"
+        {
+			"1"
+			{
+				"name"		"crosshair"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" 	"1"
+				"weight"	"0"
+				"outline"	"1"
+			}
+		}
+        
+        "OutlineCircleBig"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Book"
+				"tall"		"42"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+        "OutlineCircle"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Book"
+				"tall"		"34"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"OutlineCircleSmall"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Book"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+        
+		"CrossHairKonrWings"
+		{
+			"1"
+			{
+				"name"		"Garm3nFont"
+				"tall"		"23"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		
+		"CrossHairKonrWingsOutline"
+		{
+			"1"
+			{
+				"name"		"Garm3nFont"
+				"tall"		"23"
+				"weight"	"0"
+				"outline" "1"
+				"antialias"	"1"
+			}
+		}
+		
+		"FMCircle"
+		{
+			"1"
+			{
+				"name"		"Formas germetricas 1"
+				"tall"		"32"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"CrossHairNormal"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"28"
+				"weight"	"0"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}
+
+		"xHairThin"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"24"
+				"weight"	"0"
+				"additive"	"0"
+			}
+		}
+
+		"xHairThinOutline"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"24"
+				"weight"	"0"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}
+
+		"CrossHairRequest"
+		{
+			"1"
+			{
+				"name"		"Courier"
+				"tall"		"20"
+				"weight"	"0"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}
+
+		"CrossHairCircle"
+		{
+			"1"
+			{
+				"name"		"Formas germetricas 1"
+				"tall"		"30"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		
+		"CrossHairCircleSmall"
+		{
+			"1"
+			{
+				"name"		"Formas germetricas 1"
+				"tall"		"15"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+        
+		"CrossHairCircleSmaller"
+		{
+			"1"
+			{
+				"name"		"Formas germetricas 1"
+				"tall"		"21"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"CrossHairDotOutline"
+		{
+			"1"
+			{
+				"name"		"Paula"
+				"tall"		"4"
+				"weight"	"0"
+				"outline" "1"
+				"antialias"	"0"
+			}
+		}
+
+		"xHairNormal"
+		{
+			"1"
+			{
+				"name"		"Symbol"
+				"tall"		"30"
+				"weight"	"0"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}
+
+		"xHairRequest"
+		{
+			"1"
+			{
+				"name"		"Courier"
+				"tall"		"20"
+				"weight"	"0"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}
+
+		"xHairCircle"
+		{
+			"1"
+			{
+				"name"		"Formas germetricas 1"
+				"tall"		"30"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"xHairDotOutline"
+		{
+			"1"
+			{
+				"name"		"Paula"
+				"tall"		"4"
+				"weight"	"0"
+				"outline" "1"
+				"antialias"	"0"
+			}
+		}
         
         /////////////////////
         //Shapes and Symbols
@@ -6768,88 +7088,113 @@ Scheme
 		}
 		"7" 
 		{
+			"font" "resource/fonts/symbol.ttf"
+			"name" "symbol"
+		}
+		"8" 
+		{
+			"font" "resource/fonts/FORMASGE.ttf"
+			"name" "FORMASGE"
+		}
+		"9" 
+		{
+			"font" "resource/fonts/Paula.ttf"
+			"name" "Paula"
+		}
+		"10" 
+		{
 			"font" "resource/fonts/AvenirLTStd-Black.ttf"
 			"name" "AvenirLTStd-Black"
 		}
-		"8" 
+		"11" 
 		{
             "font" "resource/fonts/AvenirLTStd-Heavy.otf"
 			"name" "AvenirLTStd-Heavy"
 		}	
-		"9" 
+		"12" 
 		{
 			"font" "resource/fonts/AvenirLTStd-Medium.otf"
 			"name" "AvenirLTStd-Medium"
 		}		
-		"10" 
+		"13" 
 		{
             "font" "resource/fonts/AvenirLTStd-Book.otf"
 			"name" "AvenirLTStd-Book"
 		}
-		"11"
+		"14"
 		{
 			"font" "resource/fonts/Blocks.ttf"
 			"name" "Blocks"
 		}
-		"12"
+		"15" 
+		{
+			"font" "resource/fonts/crosshairs.ttf"
+			"name" "Crosshairs"
+		}	
+		"16"
 		{
 			"font" "resource/fonts/Entypo.otf"
 			"name" "Entypo"
 		}
-    "13" 
+		"17" 
+		{
+			"font" "resource/fonts/Garm3nFont.ttf"
+			"name" "Garm3nFont"
+		}
+        "18" 
 		{
 			"font" "resource/fonts/LightNumbers.ttf"
 			"name" "LightNumbers"
 		}
-		"14" 
+		"19" 
 		{
 			"font" "resource/fonts/MediumNumbers.ttf"
 			"name" "MediumNumbers"
 		}
-		"15" 
+		"20" 
 		{
 			"font" "resource/fonts/BoldNumbers.ttf"
 			"name" "BoldNumbers"    
 		}
-    "16" 
+        "21" 
 		{
 			"font" "resource/fonts/Novecentowide-Book.otf"
 			"name" "Novecentowide-Book"  
 		}
-    "17" 
+        "22" 
 		{
 			"font" "resource/fonts/NovecentoMedium.ttf"
 			"name" "NovecentoMedium"  
 		}
-    "18" 
+        "23" 
+		{
+			"font" "resource/fonts/crosshair.ttf"
+			"name" "crosshair"  
+		}
+        "24" 
 		{
 			"font" "resource/fonts/HeavyCaps.ttf"
 			"name" "HeavyCaps"  
 		}
-    "19"
+        "25"
     {
       "font" "resource/fonts/Slate W01 Italic.ttf"
       "name" "Slate W01 Italic"
     }
-    "20"
+        "26"
     {
       "font" "resource/fonts/Slate W01 Black Italic.ttf"
       "name" "Slate W01 Black Italic"
     }
-    "21"
+        "27"
     {
       "font" "resource/fonts/Slate W01 Black.ttf"
       "name" "Slate W01 Black"
     }
-    "22"
+        "28"
     {
       "font" "resource/fonts/Slate W01 Black Condensed.ttf"
       "name" "Slate W01 Black Condensed"
-    }
-    "23"
-    {
-      "font" "resource/fonts/Paula.ttf"
-      "name" "Paula"
     }
 	}
 }

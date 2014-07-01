@@ -77,7 +77,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"4"
+		"xpos"					"0"
 		"ypos"					"-1"
 		"zpos"					"2"
 		"wide"					"50"
@@ -98,7 +98,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"5"
+		"xpos"					"1"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"50"
@@ -113,20 +113,5 @@
 		"brighttext"			"0"
 		"font"					"SlateBC20"
 		"fgcolor"		"Black"
-	}
-	
-	"ItemEffectMeterIcon"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"ItemEffectMeterIcon"
-		"xpos"			"3"
-		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"19"
-		"tall"			"19"
-		"visible"		"1"
-		"enabled"		"1"
-		"image" "../hud/dneg_leaderboard_streak"
-		"scaleImage"	"1"
 	}
 }
