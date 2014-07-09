@@ -311,7 +311,7 @@
 		"xpos"		"c-170"
 		"ypos"		"281"
 		"wide"	 	"f0"
-		"tall"	 	"34"
+		"tall"	 	"29"
 		"priority"	"40"
 	}
 	
@@ -1316,7 +1316,19 @@
 		"wide"			"320"
 		"tall"			"150"
 	}
-
+	
+  CTFFlagCalloutPanel
+  {
+    "fieldName"   "CTFFlagCalloutPanel"
+    "visible"   "0"
+    "enabled"   "1"
+    "xpos"      "0"
+    "ypos"      "0"
+    "wide"      "40"
+    "tall"      "40"
+    "priority"  "40"
+  }
+ 
 	"HudMenuTauntSelection"
 	{
 		"fieldName" 	"HudMenuTauntSelection"
