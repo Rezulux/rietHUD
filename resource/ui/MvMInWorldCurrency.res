@@ -19,15 +19,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BG"
-		"xpos"			"r240"		//15
-		"ypos"			"r17"		//7
+		"xpos"			"c-148"		//15
+		"ypos"			"r80"		//7
 		"zpos"			"-22"
-		"wide"			"80"
+		"wide"			"72"
 		"tall"			"17"
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"Flavor"	
+		"bgcolor_override"	"Red"	
 	}
 	
 	"MoneyImagePanel"
@@ -51,14 +51,14 @@
 		"fieldName"		"CurrencyGood"
 		"font"			"NoveMedium18"
 		"fgcolor"		"White"
-		"xpos"			"r240"
-		"ypos"			"r19"
+		"xpos"			"c-157"
+		"ypos"			"r82"
 		"zpos"			"4"
 		"wide"			"80"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"	
+		"textAlignment"	"east"	
 		"labelText"		"%currency%"
 	}
 	
@@ -68,14 +68,14 @@
 		"fieldName"		"CurrencyBad"
 		"font"			"NoveMedium18"
 		"fgcolor"		"White"
-		"xpos"			"r240"
-		"ypos"			"r19"
+		"xpos"			"c-157"
+		"ypos"			"r82"
 		"zpos"			"4"
 		"wide"			"80"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"	
+		"textAlignment"	"east"	
 		"labelText"		"%currency%"
 	}
 }
