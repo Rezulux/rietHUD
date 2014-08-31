@@ -169,7 +169,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"r123"
+		"ypos"			"r122"
 		"zpos"			"2"
 		"wide"			"118"
 		"tall"			"50"
@@ -260,7 +260,7 @@
 	{
 		"fieldName"			"CHudAccountPanel"
 		"xpos"			"c-59"	
-		"ypos"			"r164"	
+		"ypos"			"r128"	
 		"wide"			"f0"
 		"tall"			"60"
 		"visible" 				"1"
@@ -998,7 +998,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	
-		"ypos"			"r146"	
+		"ypos"			"r143"	
 		"wide"			"118"
 		"tall"			"60"
 	}	

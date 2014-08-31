@@ -1,5 +1,5 @@
 "Resource/UI/HudDemomanCharge.res"
-{
+{	
 	"ChargeLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -33,7 +33,7 @@
 		"enabled"		"1"
 		"textAlignment"	"Left"
 		"bgcolor_override" "DarkGray"
-		"fgcolor_override" "White"
+		"fgcolor_override" "255 255 255 255"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}					

@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"
-		"ypos"			"r133"
+		"ypos"			"r107"
 		"wide"			"120"
 		"tall"			"20"
 		"MeterFG"		"White"
